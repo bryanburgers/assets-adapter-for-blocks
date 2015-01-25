@@ -17,8 +17,9 @@ in the fieldtype selector when setting up block types.
 ## Installation
 
 * Copy `system/expressionengine/third_party/assets_adapter_for_blocks` to
-  ExpressionEngine's third party folder. Click "Install" next to Assets
-* Adapter for Blocks under the Extensions screen.
+  ExpressionEngine's third party folder.
+* Click "Install" next to Assets Adapter for Blocks under the Extensions
+  screen.
 
 
 ## How it Works
