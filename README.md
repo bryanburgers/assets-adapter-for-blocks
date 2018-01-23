@@ -1,5 +1,7 @@
 # Assets Adapter for Blocks
 
+***NOTE: This repo exists for the version of Blocks that worked with ExpressionEngine 2.0. You are most likely looking for [Assets Adapter for Bloqs][aafb] which works with modern versions of ExpressionEngine.***
+
 Assets Adapter for Blocks is a third-party add-on that enables use of an
 [Assets][assets] field within a [Blocks][eeblocks] block.
 
@@ -36,3 +38,4 @@ for Blocks simply shuts itself off.
 
 [assets]: https://devot-ee.com/add-ons/assets
 [eeblocks]: https://eeblocks.com
+[aafb]: https://github.com/litzinger/assets-adapter-for-bloqs
